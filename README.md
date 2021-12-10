@@ -48,6 +48,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 https://waternow.org/wp-content/uploads/2018/07/Denver.jpg
+Resources/Election Results.PNG
 -----------------------------------------------------------------
 
 Links to images are working, and code is formatted and displayed correctly. (2 pt)
