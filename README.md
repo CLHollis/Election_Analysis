@@ -29,9 +29,7 @@ The analysis of the election show that:
     -	Candidate ( 1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
 
-![This is an image](https://github.com/CLHollis/Election_Analysis/blob/f1b9bf2e81b2b03cd85c01ed506ee493bd1d07a4/Resources/Election%20Results.PNG)
-![Election Results](/Election_Analysis/Resources/Election Results.PNG)
-.ELection/Resources/Election Results.PNG
+![](/Images/Election Results.png)
 
 ![This is an image](https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2018/11/diana-degette.jpg?resize=620,349)
 
