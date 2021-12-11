@@ -1,4 +1,4 @@
-![This is an image](https://crcamerica.org/wp-content/uploads/COFlagMtns.jpg)
+![This is an image](https://crcamerica.org/wp-content/uploads/COFlagMtns.jpg)[^1]
 # Election Analysis by Candidate
 
 ## Project Overview 
@@ -29,9 +29,9 @@ The analysis of the election show that:
     -	Candidate ( 1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
 
-![](/Images/Election Results.png)
+![This is an image](https://github.com/CLHollis/Election_Analysis/blob/main/images/electionResults.PNG)[^2]
 
-![This is an image](https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2018/11/diana-degette.jpg?resize=620,349)
+![This is an image](https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2018/11/diana-degette.jpg?resize=620,349)[^3]
 
 # Election Audit by County
 
@@ -50,8 +50,12 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 ## Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-![This is an image](https://waternow.org/wp-content/uploads/2018/07/Denver.jpg)
+![This is an image](https://waternow.org/wp-content/uploads/2018/07/Denver.jpg)[^4]
 
+[^1]: [Community Resource Center. "Voting in Colorado – Every Election Matters"](https://crcamerica.org/programs/participation-project/voter-registration-and-updating/). Accessed Dec. 9, 2021.
+[^2]: [Results Sccreenshot](https://github.com/CLHollis/Election_Analysis/blob/main/images/electionResults.PNG). Created Dec. 9, 2021.
+[^3]: [Channel 4 CBS Denver. "Rep. Diana DeGette To Run For Democratic Leadership In Congress"](https://denver.cbslocal.com/2018/11/07/diana-degette-democratic-whip-congress/). Accessed Dec. 9, 2021.
+[^4]: [WaterNow Alliance. "WaterNow Alliance is Breaking Ground in Colorado"](https://waternow.org/2018/07/31/waternow-alliance-is-breaking-ground-in-colorado/). Accessed Dec. 9, 2021.
 -----------------------------------------------------------------
 
 Links to images are working, and code is formatted and displayed correctly. (2 pt)
