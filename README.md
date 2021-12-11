@@ -1,5 +1,5 @@
-This is an image.https://crcamerica.org/wp-content/uploads/COFlagMtns.jpg
-# Election Analysis of Candidates
+![This is an image](https://crcamerica.org/wp-content/uploads/COFlagMtns.jpg)
+# Election Analysis by Candidate
 
 ## Project Overview 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
@@ -12,7 +12,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources
 -	Data Source: election_results.csv
--	Software: Python 3.6.1, Visual Studio Code, 1.38.1
+-	Software: Python 3.7.6, Visual Studio Code, 1.63.0
 
 ## Summary 
 The analysis of the election show that:
@@ -28,7 +28,12 @@ The analysis of the election show that:
 -	The winner of the election was:
     -	Candidate ( 1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fdenver.cbslocal.com%2Fwp-content%2Fuploads%2Fsites%2F15909806%2F2018%2F11%2Fdiana-degette.jpg%3Fw%3D1500&imgrefurl=https%3A%2F%2Fdenver.cbslocal.com%2F2018%2F11%2F07%2Fdiana-degette-democratic-whip-congress%2F&tbnid=aSgUmRNQ4MaPJM&vet=12ahUKEwj4kqrbrNj0AhUDpK0KHQMYCjsQMygzegQIARA0..i&docid=iMidY-rEEbnv1M&w=1500&h=843&itg=1&q=diana%20degette%20speech&ved=2ahUKEwj4kqrbrNj0AhUDpK0KHQMYCjsQMygzegQIARA0
+
+![This is an image](https://github.com/CLHollis/Election_Analysis/blob/f1b9bf2e81b2b03cd85c01ed506ee493bd1d07a4/Resources/Election%20Results.PNG)
+![Election Results](/Election_Analysis/Resources/Election Results.PNG)
+.ELection/Resources/Election Results.PNG
+
+![This is an image](https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2018/11/diana-degette.jpg?resize=620,349)
 
 # Election Audit by County
 
@@ -47,8 +52,8 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 ## Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-https://waternow.org/wp-content/uploads/2018/07/Denver.jpg
-Resources/Election Results.PNG
+![This is an image](https://waternow.org/wp-content/uploads/2018/07/Denver.jpg)
+
 -----------------------------------------------------------------
 
 Links to images are working, and code is formatted and displayed correctly. (2 pt)
